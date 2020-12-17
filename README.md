@@ -12,7 +12,7 @@ StickyNote is a fullstack application that allows you to write down notes and sa
 ## Table of Contents
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Screenshot](#Screenshot)
+- [Screenshot](#Screenshots)
 
 ## Installation
 No need to install this program. Just go to [this](https://fathomless-dusk-54471.herokuapp.com) link to the deployed application. 
