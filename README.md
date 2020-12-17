@@ -20,6 +20,6 @@ No need to install this program. Just go to [this](https://fathomless-dusk-54471
 ## Usage
 Used to write down notes. The note can be anything from a christmas list, to notes for studying. 
 
-## Screenshot
+## Screenshots
 ![Home-Page](https://user-images.githubusercontent.com/15613846/102422503-90ca7e00-3fcc-11eb-80d6-08ada94b86d4.JPG)
 ![Main-Page](https://user-images.githubusercontent.com/15613846/102422559-ac358900-3fcc-11eb-9318-0466e7b58502.JPG)
