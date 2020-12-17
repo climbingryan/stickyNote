@@ -4,7 +4,7 @@
 ![alt text](https://img.shields.io/badge/license-none-brightgreen?style=plastic)
 ![alt text](https://img.shields.io/badge/difficulty-challenge-red?style=plastic)
 ![alt text](https://img.shields.io/badge/made%20by-kevin-blue?style=plastic)
-<a href="#"><img src="https://badges.pufler.dev/visits/climbingryan/climbingryan"></a> 
+<a href="#"><img src="https://badges.pufler.dev/visits/climbingryan/stickyNote"></a> 
 
 ## Description
 StickyNote is a fullstack application that allows you to write down notes and save them. Note data is stored on the server, and can be viewed again when clicked on in the left hand side
