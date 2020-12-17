@@ -1,4 +1,4 @@
-# Note Taker Starter Code
+# stickyNote
 ![alt text](https://img.shields.io/badge/language-node.js-yellow?style=plastic)
 ![alt text](https://img.shields.io/badge/Deployed-Heroku-purple?style=plastic)
 ![alt text](https://img.shields.io/badge/license-none-brightgreen?style=plastic)
